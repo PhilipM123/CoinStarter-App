@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "next build",
+    "start": "next start",
     "test": "mocha",
     "dev": "node server.js"
   },
